@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+#star{font-size: large;
+    color:RGB(190, 0, 0);
+    font-family:'Comic Sans MC';
+}
+#CrystalBack{
+            color:RGB(190, 0, 0);
+            font-family:'Comic Sans MC';
+}
