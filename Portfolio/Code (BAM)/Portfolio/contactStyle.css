@@ -1,0 +1,12 @@
+body{
+    background-color:RGB(85, 0 ,174);
+}
+nav a{color: RGB(190, 0, 0);
+    text-decoration: none;
+    background-color: white;
+    padding: 8px;
+    border-width:5px;
+    border-style: double;
+    Border-color: silver;  
+    text-align: center;
+    float: none}

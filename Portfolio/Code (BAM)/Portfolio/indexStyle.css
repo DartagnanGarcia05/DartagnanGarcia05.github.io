@@ -1,0 +1,43 @@
+body{
+    background-color: RGB(85, 0, 174);
+}
+#zilla{color: white;
+    font-family:'Fjalla One', sans-serif;
+    width;
+    padding;
+    Border-style;
+    Border-width;
+    Border-color;
+    font-size:40px}
+#dino{font-size: large;
+    color:RGB(190, 0, 0);
+    background-color:white;
+    display: inline-block;
+    width;
+    padding;
+    Border-style:double;
+    Border-width:5px;
+    Border-color: silver;
+    font-size:25px;
+    font-family: 'Markazi Text', serif;
+    text-align: center}
+#goji{font-size: large;
+    color:RGB(190, 0, 0);
+    background-color:white;
+    display: inline;
+    font-family: 'Markazi Text', serif;
+    width;
+    padding;
+    Border-style;
+    Border-width;
+    Border-color: silver;
+    Font-size:25px}
+nav a{color: RGB(190, 0, 0);
+    text-decoration: none;
+    background-color: white;
+    padding: 8px;
+    border-width:5px;
+    border-style: double;
+    Border-color: silver;  
+    text-align: center;
+    float: none}

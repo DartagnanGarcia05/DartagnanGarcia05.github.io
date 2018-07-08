@@ -1,0 +1,30 @@
+body{
+    background-color:RGB(85, 0, 174);
+}
+#star{font-size: large;
+    color:RGB(190, 0, 0);
+    font-family:'Markazi Text', serif;
+    display: inline-block;
+    width;
+    padding;
+    Border-style:double;
+    Border-width:5px;
+    Border-color: silver;
+    font-size:25px;
+    background-color: white;
+    text-align: center;
+}
+#CrystalBack{
+            color: white;
+            font-family:'Fjalla One', sans-serif;
+            font-size: 40px;
+}
+nav a{color: RGB(190, 0, 0);
+    text-decoration: none;
+    background-color: white;
+    padding: 8px;
+    border-width:5px;
+    border-style: double;
+    Border-color: silver;  
+    text-align: center;
+    float: none}
